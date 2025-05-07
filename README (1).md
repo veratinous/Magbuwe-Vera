@@ -1,18 +1,19 @@
-![logo](https://github.com/Mustafa-Hassan2001/Mustafa-Hassan2001/blob/main/Follo.png)
-<h1 align="center">Hi 👋, I'm Mustafa Hassan</h1>
-<h3 align="center">An independent and self-motivated hardworking individual dedicated towards goals.</h3>
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+<h1 align="center">Hi 👋, I'm Magbuwe Vera Ogheneovo</h1>
+<h3 align="center">A passionate AI/Machine Learning enthusiast with a strong background in Python and data analysis. With experience in web design and a focus on solving real-world problems through data-driven approaches.</h3>
+
 
 <h1> About Me, </h1>
+I'm Magbuwe Vera, a recent Chemical Engineering graduate and a passionate AI and Machine Learning enthusiast with a strong foundation in Python and data analysis. I’m driven by the challenge of solving real-world problems through data-driven solutions and have led impactful projects, including optimizing drilling mud from local materials using Response Surface Methodology (RSM). In addition to my technical background, I’m a professional web designer and actively involved in promoting STEM education to young students. I’m now seeking opportunities to apply my skills in AI, data science, and energy innovation to contribute meaningfully in the tech and energy sectors.
 
-<p> I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.</p>
+<p> I am <b>Magbuwe Vera Ogheneovo</b> a recent Chemical Engineering graduate and a passionate AI and Machine Learning enthusiast with a strong foundation in Python and data analysis. I’m a professional web designer and actively involved in promoting STEM education to young students. I’m now seeking opportunities to apply my skills in AI, data science, to contribute meaningfully in the tech sector.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafahas20297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafahas20297" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafahassan2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafahassan2001/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mustafahassan2001/](https://www.linkedin.com/in/vera-magbuwe)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafahassan2001/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61554486898168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554486898168" height="30" width="40" /></a>
-<a href="https://instagram.com/mustafahassan_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafahassan_2001" height="30" width="40" /></a>
+<a href="https://www.instagram.com/veratinous/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafahassan_2001" height="30" width="40" /></a>
 <a href="https://medium.com/@fa21bscs0030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fa21bscs0030" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@syedmustafahassan2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@syedmustafahassan2001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fa21bscs0030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fa21bscs0030/" height="30" width="40" /></a>
